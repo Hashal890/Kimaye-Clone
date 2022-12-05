@@ -53,10 +53,4 @@ Hello everyone we are a group of six peoples and we cloned a kimaye website by u
 
 ## Feedback
 
-If you have any feedback, please reach out to us at:
-- Humam UI Islam => humam.alam19@gmail.com
-- Harshal Pardeshi => pardeshiharshal90@gmail.com
-- Dilip Kumar => dilip19121998@gmail.com
-- Rohit Mourya => rohitmourya0012@gmail.com
-- Prashant Kumar => kumar.prashant477@gmail.com
-- Abhay Agarwal => abhaytalkin@gmail.com
+If you have any feedback, please reach out me via [Email-ID](pardeshiharshal90@gmail.com)
